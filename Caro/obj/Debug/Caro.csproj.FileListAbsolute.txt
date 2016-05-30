@@ -1,0 +1,48 @@
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\MainWindow.baml
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\MainWindow.g.cs
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\App.g.cs
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\Caro_MarkupCompile.cache
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\Caro.g.resources
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\Nguyen_Dat\Desktop\Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\MainWindow.baml
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\MainWindow.g.cs
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\App.g.cs
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\Caro_MarkupCompile.cache
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\Caro.g.resources
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\sourse code\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\bin\Debug\Caro.pdb
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\MainWindow.baml
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\MainWindow.g.cs
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\App.g.cs
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\Caro_MarkupCompile.cache
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\Caro.g.resources
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tien do 2\1312124\sourse code\Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\bin\Debug\Caro.exe.config
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\Caro.exe
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\Caro.pdb
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\MainWindow.baml
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\MainWindow.g.cs
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\App.g.cs
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\Caro_MarkupCompile.cache
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\Caro.g.resources
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\obj\Debug\Caro.csproj.GenerateResource.Cache
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\bin\Debug\Caro.exe
+C:\Users\Nguyen_Dat\Desktop\Gomoku\tiến độ 3\1312124\sourse code\Caro\Caro\bin\Debug\Caro.pdb
